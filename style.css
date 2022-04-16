@@ -328,6 +328,7 @@ a {
 #body_area .box img{
     width: 100px;
     height: 100px;
+    border-radius: 5px;
 }
 
 #body_area h2 {
