@@ -333,6 +333,7 @@ a {
 #body_area h2 {
     color: #333333;
     font-size: 26px;
+    /* font-weight: 600; */
 }
 #body_area .text_box h6{
     padding-left: 15px;
