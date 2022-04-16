@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1200px) {
+    #main_header_area .social_logo {
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width: 993px) {
+    #main_header_area .social_logo {
+        width: 56%;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+    #profile_area{
+        height: auto;
+    }
+    .copyright{
+        height: 100%;
+    }
+    .copyright p{
+        text-align: center;
+    }
+    #main_menu{
+        overflow: hidden;
+    }
+    .social_logo{
+        display: none;
+    }
+  }
